@@ -2197,7 +2197,7 @@ input, select, textarea {
   width: 50px;
   text-align: center;
   text-decoration: none;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 /* Add a hover effect if you want */
