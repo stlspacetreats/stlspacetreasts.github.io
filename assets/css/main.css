@@ -1980,7 +1980,7 @@ input, select, textarea {
 
 			#main > .panel.intro {
 				padding: 0;
-				color: #a2a2a2;
+				background-color: #a2a2a2;
 				height: 20em;
 				display: -moz-flex;
 				display: -webkit-flex;
@@ -2007,7 +2007,7 @@ input, select, textarea {
 					-webkit-flex-shrink: 0;
 					-ms-flex-shrink: 0;
 					flex-shrink: 0;
-					width: 20em;
+					width: 25em;
 					height: 100%;
 				}
 
