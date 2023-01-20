@@ -2007,7 +2007,7 @@ input, select, textarea {
 					-webkit-flex-shrink: 0;
 					-ms-flex-shrink: 0;
 					flex-shrink: 0;
-					width: 34em;
+					width: 20em;
 					height: 100%;
 				}
 
